@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leo26dandy
-- 👀 I’m interested in Vanilla JS, node.js, and mochachai (for testing purpose)
+- 👀 I’m interest in Golang, PHP, JS, and Production
 - 📫 Reach me out here via Github
 
 <!---
