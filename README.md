@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leo26dandy
-- 👀 I’m interest in Golang, PHP, JS, and Production
+- 👀 I’m interest in Golang, PHP, JS, and Operations on Development and Production (Websites)
 - 📫 Reach me out here via Github
 
 <!---
