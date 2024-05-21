@@ -1,9 +1,7 @@
-# Leo Dandy
-
 ## About Me
 
-Hello! 👋
-I'm Leo, a passionate Developer and Operations interested in PHP, Golang, Elixir, JS, and many things to come later. I love to learn and find the truth of each technology that interests me.
+Hello! 👋 
+I'm Leo, a passionate Developer and Operations professional interested in PHP, Golang, Elixir, JS, and many other technologies. I love to learn and discover the truth about each technology that interests me.
 
 ## Skills
 
