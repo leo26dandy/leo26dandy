@@ -1,10 +1,9 @@
 # Leo Dandy
 
-![Profile Picture](https://avatars.githubusercontent.com/u/25453370?v=4)
-
 ## About Me
 
-Hello! I'm Leo, a passionate Developer and Operations interested in PHP, Golang, Elixir, JS, and many things to come later. I love to learn and find the truth of each technology that interests me.
+Hello! 👋
+I'm Leo, a passionate Developer and Operations interested in PHP, Golang, Elixir, JS, and many things to come later. I love to learn and find the truth of each technology that interests me.
 
 ## Skills
 
@@ -40,7 +39,7 @@ Hello! I'm Leo, a passionate Developer and Operations interested in PHP, Golang,
 
 ---
 
-Feel free to reach out if you have any questions or just want to connect!
+Feel free to reach out 🤙 if you have any questions or just want to connect! 🙏
 
 <!---
 leo26dandy/leo26dandy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
