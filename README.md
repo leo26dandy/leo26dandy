@@ -8,14 +8,29 @@ Hello! I'm Leo, a passionate Developer and Operations interested in PHP, Golang,
 
 ## Skills
 
-- **Programming Languages:** PHP, JS, Elixir, Golang.
-- **Tools and Platforms:** VSCode, Playwright, Insomnia, Linux, Windows. 
-- **Other Skills:** Breaking the codes, and Breaking the website.
+- **Programming Languages:**
+  - PHP,
+  - JS,
+  - Elixir,
+  - Golang.
+ 
+    
+- **Tools and Platforms:**
+  - VSCode,
+  - Playwright,
+  - Insomnia,
+  - Linux,
+  - Windows.
+ 
+     
+- **Other Skills:**
+  - [x] Breaking the codes, and
+  - [x] Breaking the website.
 
 ## Contact
 
 - **Email:** leo26dandy@gmail.com
-- **Website/Blog:** https://leo-rio.com
+- **Website/Blog:** Coming Soon
 
 ## GitHub Stats
 
