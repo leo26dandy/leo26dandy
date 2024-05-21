@@ -14,8 +14,8 @@ Hello! I'm Leo, a passionate Developer and Operations interested in PHP, Golang,
 
 ## Contact
 
-- **Email:** mailto:leo26dandy@gmail.com
-- **Website/Blog:** leo-rio.com
+- **Email:** leo26dandy@gmail.com
+- **Website/Blog:** https://leo-rio.com
 
 ## GitHub Stats
 
