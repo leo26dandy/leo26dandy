@@ -1,6 +1,6 @@
 # Leo Dandy
 
-![Profile Picture](URL_to_your_profile_picture)
+![Profile Picture](https://avatars.githubusercontent.com/u/25453370?v=4)
 
 ## About Me
 
