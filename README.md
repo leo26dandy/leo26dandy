@@ -33,8 +33,6 @@ I'm Leo, a passionate Developer and Operations interested in PHP, Golang, Elixir
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=leo26dandy&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leo26dandy&layout=compact&theme=radical)
 
 ---
