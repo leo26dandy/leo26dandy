@@ -30,7 +30,7 @@ I'm Leo, a passionate Developer and Operations professional interested in PHP, G
 ## Contact
 
 - **Email:** hello@leo-rio.com
-- **Website/Blog:** Coming Soon
+- **Website/Blog:** https://leo-rio.com
 
 ## GitHub Stats
 
