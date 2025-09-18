@@ -1,7 +1,6 @@
 ## About Me
 
-Hello! 👋 
-I'm Leo, a passionate Developer and Operations professional interested in PHP, Golang, Elixir, JS, and many other technologies. I love to learn and discover the truth about each technology that interests me.
+Leo 🇮🇩 • I solve problems with PHP|Go|Elixir|JS • DevOps enthusiast • Your next debugging hero ⚡
 
 ## Skills
 
