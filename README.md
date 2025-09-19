@@ -4,21 +4,44 @@
 
 I'm that guy who gets excited about clean code at 2 AM and thinks debugging is basically detective work with better coffee. Currently obsessed with PHP, Golang, Elixir, and JS – but honestly, if it compiles (or interprets), I'm probably interested.
 
-```php
-<?php
-class Leo {
-    public $status = "Always learning something new";
-    public $current_mood = "Probably refactoring old code";
-    
-    public function whatAmIDoing() {
-        return [
-            "🔧 Building stuff that (hopefully) doesn't break in production",
-            "📚 Reading docs that other devs skipped",
-            "🐛 Hunting bugs like it's my full-time hobby",
-            "☕ Converting caffeine into working software"
-        ];
-    }
+```go
+package main
+
+import (
+	"fmt"
+)
+
+// Leo represents your developer persona
+type Leo struct {
+	Status      string
+	CurrentMood string
 }
+
+// WhatAmIDoing returns a slice of strings describing activities
+func (l Leo) WhatAmIDoing() []string {
+	return []string{
+		"🔧 Building stuff that (hopefully) doesn't break in production",
+		"📚 Reading docs that other devs skipped",
+		"🐛 Hunting bugs like it's my full-time hobby",
+		"☕ Converting caffeine into working software",
+	}
+}
+
+func main() {
+	leo := Leo{
+		Status:      "Always learning something new",
+		CurrentMood: "Probably refactoring old code",
+	}
+
+	fmt.Println("Status:", leo.Status)
+	fmt.Println("Mood:", leo.CurrentMood)
+
+	fmt.Println("What am I doing?")
+	for _, activity := range leo.WhatAmIDoing() {
+		fmt.Println("-", activity)
+	}
+}
+
 ```
 
 ## What I Actually Do
