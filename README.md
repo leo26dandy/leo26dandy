@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Leo
 
-**Developer | Operations Engineer | Code Breaker** 🔥
+**Developer | Operations Engineer | Code Breaker**
 
 I'm that guy who gets excited about clean code at 2 AM and thinks debugging is basically detective work with better coffee. Currently obsessed with PHP, Golang, Elixir, and JS – but honestly, if it compiles (or interprets), I'm probably interested.
 
@@ -52,7 +52,7 @@ func main() {
 
 **Problem Solving:** If something's broken, I'll figure out why. If it's not broken yet, give me time – I'll find the edge cases.
 
-## My Arsenal 🛠️
+## My Arsenal
 
 **Languages I Actually Use:**
 - ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) *My daily driver*
