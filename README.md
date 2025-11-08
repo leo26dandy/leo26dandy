@@ -1,8 +1,7 @@
 # Hey there! 👋 I'm Leo
 
-**Developer | Operations Engineer | Code Breaker**
-
-I'm that guy who gets excited about clean code at 2 AM and thinks debugging is basically detective work with better coffee. Currently obsessed with PHP, Golang, Elixir, and JS – but honestly, if it compiles (or interprets), I'm probably interested.
+I'm a **DevOps Engineer** and **Site Reliability Engineer** based in Yogyakarta, Indonesia, with 9+ years of experience building reliable infrastructure and optimizing web applications. I specialize in making systems faster, more secure, and easier to maintain.
+Currently working at [MadeIndonesia](https://github.com/made-indonesia) while helping clients worldwide optimize their digital infrastructure.
 
 ```go
 package main
@@ -44,32 +43,31 @@ func main() {
 
 ```
 
-## What I Actually Do
+## What I Do
 
-**Backend Wizardry:** PHP is my comfort zone, but Golang makes me feel fast and Elixir makes me feel fancy. JavaScript keeps me humble (and occasionally frustrated).
-
-**DevOps Shenanigans:** I deploy things and pray they work. Sometimes they do! I'm pretty good with servers, databases, and making CI/CD pipelines that don't hate me.
-
-**Problem Solving:** If something's broken, I'll figure out why. If it's not broken yet, give me time – I'll find the edge cases.
+- **🚀 DevOps & SRE:** Building CI/CD pipelines, managing servers, and ensuring high availability
+- **⚡ Performance Optimization:** Making WordPress and Laravel applications 30-40% faster
+- **🔒 Security Hardening:** Implementing security best practices for web applications
+- **📚 Technical Writing:** Creating clear documentation and guides for teams and clients
 
 ## My Arsenal
 
 **Languages I Actually Use:**
-- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) *My daily driver*
-- ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) *When speed matters*
-- ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white) *For the fancy stuff*
-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) *Love-hate relationship*
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) *My daily driver*
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) *When speed matters*
+![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white) *For the fancy stuff*
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) *Love-hate relationship*
 
-**Infrastructure & Tools:**
-- **Databases:** ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-- **Servers:** ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-- **Cloud:** ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
-- **CI/CD:** ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)
+**Infrastructure & DevOps:**
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-**My Daily Setup:**
-- **Editor:** ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
-- **Terminal:** ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-- **OS:** ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+**Databases:**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ## Special Skills (The Fun Stuff)
 
@@ -83,27 +81,44 @@ func main() {
 
 *Let's be honest – we all live on Stack Overflow and YouTube tutorials.*
 
-## Current Obsessions
+## Featured Projects
 
-- 🔍 **Exploring:** Microservices with Elixir/Phoenix
-- 🚀 **Building:** CLI tools in Go that actually make my life easier  
-- 🎯 **Optimizing:** Database queries that don't make servers cry
-- 📖 **Reading:** Architecture patterns and why my code probably violates all of them
+### [WP-Workflow-Reusable](https://github.com/leo26dandy/WP-Workflow-Reusable)
+Reusable GitHub Actions workflow for WordPress deployments with automated testing and zero-downtime updates.
+
+**Tech:** GitHub Actions, WordPress, CI/CD  
+**Impact:** Reduced deployment time by 60% for agency clients
+
+### Performance Optimization Toolkit
+Collection of scripts and configurations for optimizing WordPress and Laravel applications.
+
+**Tech:** PHP, Bash, MySQL  
+**Impact:** Consistent 30-40% performance improvements across client projects
+
+## Currently Learning
+
+- ☁️ AWS Solutions Architecture for cloud migration projects
+- 🐳 Kubernetes for container orchestration at scale
+- 🔧 Terraform for infrastructure as code
+- 📊 Advanced observability with Prometheus and Grafana
 
 ## GitHub Stats (Because Everyone Has Them)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leo26dandy&layout=compact&theme=radical)
 
-## Let's Connect!
+## Get In Touch
 
-Got a cool project? Found a nasty bug? Just want to talk about why JavaScript is weird? Hit me up!
-
-📧 **Email:** hello@leo-rio.com  
-🌐 **Website:** https://leo-rio.com  
+- 📧 Email: [hello@leo-rio.com](mailto:hello@leo-rio.com)
+- 🌐 Website: [leo-rio.com](https://leo-rio.com)
+- 💼 LinkedIn: [linkedin.com](https://www.linkedin.com/in/leo-dandy-0698b15a/)
+- 📰 Writings: [dev.to](https://dev.to/leo_rio)
 
 ---
-
 *Currently debugging something that worked perfectly yesterday* 🤷‍♂️
+
+💡 **Open to:** Freelance DevOps projects, technical consulting, and collaborative opportunities in SRE and infrastructure optimization.
+
+![Profile Views](https://komarev.com/ghpvc/?username=leo26dandy&color=blue&style=flat-square)
 
 <!---
 leo26dandy/leo26dandy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
