@@ -19,10 +19,10 @@ type Leo struct {
 // WhatAmIDoing returns a slice of strings describing activities
 func (l Leo) WhatAmIDoing() []string {
 	return []string{
-		"🔧 Building stuff that (hopefully) doesn't break in production",
-		"📚 Reading docs that other devs skipped",
-		"🐛 Hunting bugs like it's my full-time hobby",
-		"☕ Converting caffeine into working software",
+		"Building stuff that (hopefully) doesn't break in production",
+		"Reading docs that other devs skipped",
+		"Hunting bugs like it's my full-time hobby",
+		"Converting caffeine into working software",
 	}
 }
 
@@ -45,10 +45,10 @@ func main() {
 
 ## What I Do
 
-- **🚀 DevOps & SRE:** Building CI/CD pipelines, managing servers, and ensuring high availability
-- **⚡ Performance Optimization:** Making WordPress and Laravel applications 30-40% faster
-- **🔒 Security Hardening:** Implementing security best practices for web applications
-- **📚 Technical Writing:** Creating clear documentation and guides for teams and clients
+- **DevOps & SRE:** Building CI/CD pipelines, managing servers, and ensuring high availability
+- **Performance Optimization:** Making WordPress and Laravel applications 30-40% faster
+- **Security Hardening:** Implementing security best practices for web applications
+- **Technical Writing:** Creating clear documentation and guides for teams and clients
 
 ## My Arsenal
 
@@ -97,10 +97,10 @@ Collection of scripts and configurations for optimizing WordPress and Laravel ap
 
 ## Currently Learning
 
-- ☁️ AWS Solutions Architecture for cloud migration projects
-- 🐳 Kubernetes for container orchestration at scale
-- 🔧 Terraform for infrastructure as code
-- 📊 Advanced observability with Prometheus and Grafana
+- AWS Solutions Architecture for cloud migration projects
+- Kubernetes for container orchestration at scale
+- Terraform for infrastructure as code
+- Advanced observability with Prometheus and Grafana
 
 ## GitHub Stats (Because Everyone Has Them)
 
