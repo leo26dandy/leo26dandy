@@ -89,7 +89,7 @@ Reusable GitHub Actions workflow for WordPress deployments with automated testin
 **Tech:** GitHub Actions, WordPress, CI/CD  
 **Impact:** Reduced deployment time by 60% for agency clients
 
-### Performance Optimization Toolkit
+### [Performance Optimization Toolkit](https://github.com/leo26dandy/laravel-workflow-github-action)
 Collection of scripts and configurations for optimizing WordPress and Laravel applications.
 
 **Tech:** PHP, Bash, MySQL  
