@@ -10,34 +10,39 @@ import (
 	"fmt"
 )
 
-// Leo represents your developer persona
+// Leo represents a DevOps/SRE engineer persona
 type Leo struct {
-	Status      string
-	CurrentMood string
+	Role        string
+	Focus       string
+	CurrentTask string
 }
 
-// WhatAmIDoing returns a slice of strings describing activities
-func (l Leo) WhatAmIDoing() []string {
+// DailyWork returns a slice of activities that reflect real DevOps/SRE routines
+func (l Leo) DailyWork() []string {
 	return []string{
-		"Building stuff that (hopefully) doesn't break in production",
-		"Reading docs that other devs skipped",
-		"Hunting bugs like it's my full-time hobby",
-		"Converting caffeine into working software",
+		"Keeping servers stable and predictable",
+		"Improving deployments so they run without surprises",
+		"Optimizing WordPress/Laravel performance for real users",
+		"Automating anything that wastes time twice",
+		"Solving incidents before anyone notices",
+		"Writing documentation nobody thinks they need, until they do",
 	}
 }
 
 func main() {
 	leo := Leo{
-		Status:      "Always learning something new",
-		CurrentMood: "Probably refactoring old code",
+		Role:        "DevOps Engineer / SRE",
+		Focus:       "Reliability, automation, and performance",
+		CurrentTask: "Reviewing logs and planning next improvements",
 	}
 
-	fmt.Println("Status:", leo.Status)
-	fmt.Println("Mood:", leo.CurrentMood)
+	fmt.Println("Role:", leo.Role)
+	fmt.Println("Focus:", leo.Focus)
+	fmt.Println("Current Task:", leo.CurrentTask)
 
-	fmt.Println("What am I doing?")
-	for _, activity := range leo.WhatAmIDoing() {
-		fmt.Println("-", activity)
+	fmt.Println("\nWhat do I work on?")
+	for _, work := range leo.DailyWork() {
+		fmt.Println("-", work)
 	}
 }
 
