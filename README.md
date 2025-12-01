@@ -1,7 +1,10 @@
-# Hey there! 👋 I'm Leo
+# Hey there! [https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Elf.png](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Leo
 
 I'm a **DevOps Engineer** and **Site Reliability Engineer** based in Yogyakarta, Indonesia, with 9+ years of experience building reliable infrastructure and optimizing web applications. I specialize in making systems faster, more secure, and easier to maintain.
 Currently working at [MadeIndonesia](https://github.com/made-indonesia) while helping clients worldwide optimize their digital infrastructure.
+
+
+[https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 ```go
 package main
