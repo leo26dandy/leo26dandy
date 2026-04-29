@@ -1,4 +1,6 @@
-# Hey there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Cartwheeling%20Medium%20Skin%20Tone.png" alt="Person Cartwheeling Medium Skin Tone" width="40" height="40" /> I'm Leo
+# Hey there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Cartwheeling%20Medium%20Skin%20Tone.png" alt="Person Cartwheeling Medium Skin Tone" width="40" height="40" /> 
+
+## I'm Leo
 
 I'm a **DevOps Engineer** and **Site Reliability Engineer** based in Yogyakarta, Indonesia, with 9+ years of experience building reliable infrastructure and optimizing web applications. I specialize in making systems faster, more secure, and easier to maintain.
 Currently working at [MadeIndonesia](https://github.com/made-indonesia) while helping clients worldwide optimize their digital infrastructure.
