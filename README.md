@@ -12,72 +12,89 @@ Currently working at [MadeIndonesia](https://github.com/made-indonesia) while he
 package main
 
 import (
-	"fmt"
+    "fmt"
 )
 
 // Leo represents a DevOps/SRE engineer persona
 type Leo struct {
-	Role        string
-	Focus       string
-	CurrentTask string
+    Role        string
+    Focus       string
+    CurrentTask string
 }
 
 // DailyWork returns a slice of activities that reflect real DevOps/SRE routines
 func (l Leo) DailyWork() []string {
-	return []string{
-		"Keeping servers stable and predictable",
-		"Improving deployments so they run without surprises",
-		"Optimizing WordPress/Laravel performance for real users",
-		"Automating anything that wastes time twice",
-		"Solving incidents before anyone notices",
-		"Writing documentation nobody thinks they need, until they do",
-	}
+    return []string{
+        "Keeping servers stable and predictable",
+        "Improving deployments so they run without surprises",
+        "Provisioning infrastructure as code so nothing is a snowflake",
+        "Optimizing WordPress/Laravel performance for real users",
+        "Automating anything that wastes time twice",
+        "Solving incidents before anyone notices",
+        "Writing documentation nobody thinks they need, until they do",
+    }
 }
 
 func main() {
-	leo := Leo{
-		Role:        "DevOps Engineer / SRE",
-		Focus:       "Reliability, automation, and performance",
-		CurrentTask: "Reviewing logs and planning next improvements",
-	}
+    leo := Leo{
+        Role:        "DevOps Engineer / SRE",
+        Focus:       "Reliability, automation, and infrastructure as code",
+        CurrentTask: "Studying for Terraform Associate (003) — exam end of May 2026",
+    }
 
-	fmt.Println("Role:", leo.Role)
-	fmt.Println("Focus:", leo.Focus)
-	fmt.Println("Current Task:", leo.CurrentTask)
+    fmt.Println("Role:", leo.Role)
+    fmt.Println("Focus:", leo.Focus)
+    fmt.Println("Current Task:", leo.CurrentTask)
 
-	fmt.Println("\nWhat do I work on?")
-	for _, work := range leo.DailyWork() {
-		fmt.Println("-", work)
-	}
+    fmt.Println("\nWhat do I work on?")
+    for _, work := range leo.DailyWork() {
+        fmt.Println("-", work)
+    }
 }
-
 ```
 
 ## What I Do
 
 - **DevOps & SRE:** Building CI/CD pipelines, managing servers, and ensuring high availability
+- **Infrastructure as Code:** Provisioning and maintaining cloud infrastructure with Terraform across AWS, GCP, and OVHcloud
 - **Performance Optimization:** Making WordPress and Laravel applications 30-40% faster
-- **Security Hardening:** Implementing security best practices for web applications
+- **Observability:** Rolling out Prometheus + Grafana monitoring with SLI/SLO frameworks across production environments
+- **Security Hardening:** Implementing security best practices for web applications and servers
 - **Technical Writing:** Creating clear documentation and guides for teams and clients
 
 ## My Arsenal
 
 **Languages I Actually Use:**
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) *Glue for everything*
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) *My daily driver*
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) *When speed matters*
-![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white) *For the fancy stuff*
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) *Love-hate relationship*
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) *JS, but with guardrails*
 
 **Infrastructure & DevOps:**
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
+**Cloud:**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![OVHcloud](https://img.shields.io/badge/-OVHcloud-123F6D?style=flat-square&logo=ovh&logoColor=white)
+
+**Observability:**
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
 **Databases:**
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SurrealDB](https://img.shields.io/badge/-SurrealDB-FF00A0?style=flat-square&logo=surrealdb&logoColor=white)
 
 ## Special Skills (The Fun Stuff)
 
@@ -105,12 +122,23 @@ Collection of scripts and configurations for optimizing WordPress and Laravel ap
 **Tech:** PHP, Bash, MySQL  
 **Impact:** Consistent 30-40% performance improvements across client projects
 
-## Currently Learning
+### Terraform AWS Infrastructure
+Three-environment IaC setup for a Symfony application: dual EC2 behind ALB, RDS PostgreSQL, Redis session store, full VPC networking.
 
-- AWS Solutions Architecture for cloud migration projects
-- Kubernetes for container orchestration at scale
-- Terraform for infrastructure as code
-- Advanced observability with Prometheus and Grafana
+**Tech:** Terraform, AWS (EC2, ALB, RDS, Redis, VPC), Symfony  
+**Impact:** Reproducible environments across dev/staging/prod from a single codebase
+
+### Production Monitoring Rollout
+Prometheus + Grafana observability stack covering four golden signals across a multi-service Symfony platform.
+
+**Tech:** Prometheus, node_exporter, Grafana, SLI/SLO  
+**Impact:** Full visibility into latency, traffic, errors, and saturation in production
+
+### Multi-Domain Infrastructure Consolidation
+Migrated 8 legacy domains onto a hardened WordPress Multisite stack, provisioning 15+ SSL certificates and optimizing Nginx configuration.
+
+**Tech:** WordPress Multisite, Nginx, Let's Encrypt, Bash  
+**Impact:** Unified management, reduced maintenance overhead, improved security posture
 
 ## GitHub Stats (Because Everyone Has Them)
 
@@ -120,13 +148,13 @@ Collection of scripts and configurations for optimizing WordPress and Laravel ap
 
 - 📧 Email: [hello@leo-rio.com](mailto:hello@leo-rio.com)
 - 🌐 Website: [leo-rio.com](https://leo-rio.com)
-- 💼 LinkedIn: [linkedin.com](https://www.linkedin.com/in/leo-dandy-0698b15a/)
+- 💼 LinkedIn: [linkedin.com](https://www.linkedin.com/in/leodandyy/)
 - 📰 Writings: [dev.to](https://dev.to/leo_rio)
 
 ---
 *Currently debugging something that worked perfectly yesterday* 🤷‍♂️
 
-💡 **Open to:** Freelance DevOps projects, technical consulting, and collaborative opportunities in SRE and infrastructure optimization.
+💡 **Open to:** Freelance DevOps projects, technical consulting, and collaborative opportunities in SRE and infrastructure optimization. Available for international remote roles.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=leo26dandy&color=blue&style=flat-square)
 
